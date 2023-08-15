@@ -1,3 +1,3 @@
-#IBC_CEP-Rust
+# IBC_CEP-Rust
 
 Learning Rust
